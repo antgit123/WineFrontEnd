@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The initial home page shows the default Learn React page. To view the wine details change the path to match pattern '/wines/{lotCode}'.
+
+## Dependencies
+
+Please run npm install or npm install --legacy-peer-deps to get node_modules folder to avoid any compiler issues.
 
 ## Available Scripts
 
